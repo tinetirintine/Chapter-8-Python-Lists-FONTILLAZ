@@ -1,3 +1,5 @@
+
+
 words = []
 
 with open("romeo.txt", "r") as file:
@@ -11,3 +13,4 @@ with open("romeo.txt", "r") as file:
 words.sort()
 
 print(words)
+
